@@ -1,0 +1,17 @@
+D:\Projects\infoSalonsTask\infosalons-web-api\Infosalons.Repository\bin\Debug\net6.0\Infosalons.Repository.deps.json
+D:\Projects\infoSalonsTask\infosalons-web-api\Infosalons.Repository\bin\Debug\net6.0\Infosalons.Repository.runtimeconfig.json
+D:\Projects\infoSalonsTask\infosalons-web-api\Infosalons.Repository\bin\Debug\net6.0\Infosalons.Repository.dll
+D:\Projects\infoSalonsTask\infosalons-web-api\Infosalons.Repository\bin\Debug\net6.0\ref\Infosalons.Repository.dll
+D:\Projects\infoSalonsTask\infosalons-web-api\Infosalons.Repository\bin\Debug\net6.0\Infosalons.Repository.pdb
+D:\Projects\infoSalonsTask\infosalons-web-api\Infosalons.Repository\bin\Debug\net6.0\Infosalons.Domain.dll
+D:\Projects\infoSalonsTask\infosalons-web-api\Infosalons.Repository\bin\Debug\net6.0\Infosalons.Domain.pdb
+D:\Projects\infoSalonsTask\infosalons-web-api\Infosalons.Repository\obj\Debug\net6.0\Infosalons.Repository.csproj.AssemblyReference.cache
+D:\Projects\infoSalonsTask\infosalons-web-api\Infosalons.Repository\obj\Debug\net6.0\Infosalons.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\infoSalonsTask\infosalons-web-api\Infosalons.Repository\obj\Debug\net6.0\Infosalons.Repository.AssemblyInfoInputs.cache
+D:\Projects\infoSalonsTask\infosalons-web-api\Infosalons.Repository\obj\Debug\net6.0\Infosalons.Repository.AssemblyInfo.cs
+D:\Projects\infoSalonsTask\infosalons-web-api\Infosalons.Repository\obj\Debug\net6.0\Infosalons.Repository.csproj.CoreCompileInputs.cache
+D:\Projects\infoSalonsTask\infosalons-web-api\Infosalons.Repository\obj\Debug\net6.0\Infosalons.Repository.csproj.CopyComplete
+D:\Projects\infoSalonsTask\infosalons-web-api\Infosalons.Repository\obj\Debug\net6.0\Infosalons.Repository.dll
+D:\Projects\infoSalonsTask\infosalons-web-api\Infosalons.Repository\obj\Debug\net6.0\ref\Infosalons.Repository.dll
+D:\Projects\infoSalonsTask\infosalons-web-api\Infosalons.Repository\obj\Debug\net6.0\Infosalons.Repository.pdb
+D:\Projects\infoSalonsTask\infosalons-web-api\Infosalons.Repository\obj\Debug\net6.0\Infosalons.Repository.genruntimeconfig.cache

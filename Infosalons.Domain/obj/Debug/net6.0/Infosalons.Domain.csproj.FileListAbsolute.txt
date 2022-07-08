@@ -1,0 +1,12 @@
+D:\Projects\infoSalonsTask\infosalons-web-api\Infosalons.Domain\bin\Debug\net6.0\Infosalons.Domain.deps.json
+D:\Projects\infoSalonsTask\infosalons-web-api\Infosalons.Domain\bin\Debug\net6.0\Infosalons.Domain.dll
+D:\Projects\infoSalonsTask\infosalons-web-api\Infosalons.Domain\bin\Debug\net6.0\ref\Infosalons.Domain.dll
+D:\Projects\infoSalonsTask\infosalons-web-api\Infosalons.Domain\bin\Debug\net6.0\Infosalons.Domain.pdb
+D:\Projects\infoSalonsTask\infosalons-web-api\Infosalons.Domain\obj\Debug\net6.0\Infosalons.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\infoSalonsTask\infosalons-web-api\Infosalons.Domain\obj\Debug\net6.0\Infosalons.Domain.AssemblyInfoInputs.cache
+D:\Projects\infoSalonsTask\infosalons-web-api\Infosalons.Domain\obj\Debug\net6.0\Infosalons.Domain.AssemblyInfo.cs
+D:\Projects\infoSalonsTask\infosalons-web-api\Infosalons.Domain\obj\Debug\net6.0\Infosalons.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\infoSalonsTask\infosalons-web-api\Infosalons.Domain\obj\Debug\net6.0\Infosalons.Domain.dll
+D:\Projects\infoSalonsTask\infosalons-web-api\Infosalons.Domain\obj\Debug\net6.0\ref\Infosalons.Domain.dll
+D:\Projects\infoSalonsTask\infosalons-web-api\Infosalons.Domain\obj\Debug\net6.0\Infosalons.Domain.pdb
+D:\Projects\infoSalonsTask\infosalons-web-api\Infosalons.Domain\obj\Debug\net6.0\Infosalons.Domain.csproj.AssemblyReference.cache
