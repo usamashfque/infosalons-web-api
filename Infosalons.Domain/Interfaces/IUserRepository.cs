@@ -10,5 +10,6 @@ namespace Infosalons.Domain.Interfaces
     public interface IUserRepository : IGenericRepository<User>
     {
         Task<User> SignIn(SignIn user);
+        Task<bool> CheckIsRegistered(string email);
     }
 }

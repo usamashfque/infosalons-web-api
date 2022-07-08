@@ -17,6 +17,19 @@ namespace Infosalons.Repository
             _context = context;
         }
 
+        public async Task<bool> CheckIsRegistered(string email)
+        {
+            var result = await _context.Users.Where(x => x.Email.ToLower() == email.ToLower()).FirstOrDefaultAsync();
+            if (result is not null)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
+
         public async Task<User> SignIn(SignIn cred)
         {
             return await _context.Users.Where(x => x.Email == cred.Email && x.Password == cred.Password).FirstOrDefaultAsync();
